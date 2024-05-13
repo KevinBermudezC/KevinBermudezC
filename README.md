@@ -62,8 +62,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KevinBermudezC&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@kevinbermudezc/30-nites-of-code)  
-  ![@kevinbermudezc #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kevinbermudezc)
-
 ###
