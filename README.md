@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrkevin030522" target="blank"><img src="https://img.shields.io/twitter/follow/mrkevin030522?logo=twitter&style=for-the-badge" alt="mrkevin030522" /></a> </p>
 
-- 🔭 I’m currently working on **Web e-commercer**
+- 🔭 I’m currently working on **couple projects later on I will push them! **
 
 - 🌱 I’m currently learning **React Native, NextJS and TypeScript**
 
