@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Kevin from Colombia.<br><br>- 🔭 I’m working as a Frontend developer.<br>- 📚 I'm currently learning more about JS, React.js and node.js.<br>- ⚡ In my free time I like playing videogames and listening to music.</p>
+<p align="left">I'm Kevin from Colombia.<br><br>- 🔭 I’m working as a Frontend developer.<br>- 📚 I'm currently learning React Native, NextJS and NodeJS<br>- ⚡ In my free time I like playing videogames and listening to music.</p>
 
 ###
 
