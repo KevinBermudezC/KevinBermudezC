@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native, Python**
 
-- 👨‍💻 All of my projects are available at [https://www.kevinbermudez.dev](https://www.kevinbermudez.dev)
+- 👨‍💻 All of my projects are available at [[https://www.kevinbermudez.dev](https://kevinbermudez.vercel.app)]
 
 - 📫 How to reach me **kevinbermudezc@gmail.com**
 
