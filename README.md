@@ -30,7 +30,7 @@ const kevin = {
  
 ## 🛠️ Tech I work with
  
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · shadcn/ui
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · Svelte · Astro
 **Backend:** FastAPI · Node.js · Python · REST APIs
 **Data:** PostgreSQL · pgvector
 **AI:** LLMs (local & cloud) · RAG · LoRA fine-tuning · multi-agent systems · Ollama
