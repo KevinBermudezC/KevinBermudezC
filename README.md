@@ -1,7 +1,7 @@
 
 # Hi, I'm Kevin Bermudez 👋
  
-**Full Stack Developer** building real products end-to-end — React/Next.js on the front, FastAPI/Node.js on the back — with a focus on **integrating AI (LLMs, RAG, multi-agent systems) into production**.
+**Full Stack Developer** building real products end-to-end, React/Next.js on the front, FastAPI/Node.js on the back, with a focus on **integrating AI (LLMs, RAG, multi-agent systems) into production**.
  
 Based in Colombia 🇨🇴 · Open to remote opportunities.
  
